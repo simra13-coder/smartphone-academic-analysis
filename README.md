@@ -3,7 +3,7 @@ A data science project exploring how smartphone habits impact teenage academic p
 
 About This Project
 
-This project looks at how different smartphone usage patterns impact the academic performance of teenagers aged 14–18. Instead of just assuming "phones are bad," I analyzed survey data from 100 participants to track how specific habits—like study time, screen time, and active distraction levels—interact with final grades.
+This project looks at how different smartphone usage patterns impact the academic performance of teenagers aged 14–18. Instead of just assuming "phones are bad," I analyzed survey data from 100 participants to track how specific habits like study time, screen time, and active distraction levels interact with final grades.
 
 Key Highlights:
 
